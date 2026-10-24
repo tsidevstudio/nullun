@@ -1,78 +1,55 @@
-# Nullun — Battery Screen & Status Bar Studio
+# Nullun
 
-**Nullun** is an Android app for creating customizable battery screens and status-bar visuals for entertainment, creative posts, conversations and social content.
+**Status Bar Studio for Android**
 
-Set the battery level, choose a visual style, customize messages and build detailed status-bar compositions directly on your Android device.
+Nullun is part of the TSI Dev Studio Android portfolio.
 
-## What you can create
+## What it does
 
-- Battery levels from 1% to 100%
-- Android-inspired battery styles
-- iPhone-inspired battery styles
-- Normal and Low Power modes
-- Ready-made message templates
-- Custom messages with Pro
-- Preview before export
-- Save creations to your gallery
-- Share through compatible apps
-- Access recent creations from History
+- Create and edit custom status-bar visuals directly on Android
+- Preview and History workflows
+- Battery percentage customization
+- Carrier, signal, Wi-Fi and mobile-network indicators
+- Custom messages and app-name controls
+- Background customization
+- Free creation, editing, preview and History
+- Lifetime unlock for external output
+- No subscription
 
-## Status Bar Studio Pro
+## Product principles
 
-Nullun Pro adds detailed status-bar customization, including:
+- Local on-device creation
+- No unnecessary account requirement
+- No subscription
+- Focused Android utility
 
-- Custom carrier name
-- LTE, 4G and 5G indicators
-- Signal strength
-- Wi-Fi visibility
-- Synchronized battery icon and percentage
-- App name
-- Notification text
-- Premium background styles
+## Public documentation
 
-The status-bar battery can stay synchronized with the main battery level.
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Customization Guide](docs/customization-guide.md) | Public user-facing documentation |
+| [Troubleshooting](docs/troubleshooting.md) | Public user-facing documentation |
+| [Security Policy](SECURITY.md) | Responsible private security reporting |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-## Free + Pro
+## Official links
 
-Nullun includes a free version.
+- Website: https://tsidevstudio.com/apps/nullun
+- Google Play: https://play.google.com/store/apps/details?id=com.premium.nullun
+- TSI Dev Studio: https://tsidevstudio.com
 
-The first eligible export is clean and watermark-free. Additional free exports are limited and may include Nullun branding.
+## About this repository
 
-**Nullun Pro is a one-time purchase. No subscription.**
+This repository is for public product information, documentation, verification links and release-related resources.
 
-Pro includes unlimited clean exports, all message packs, custom messages, Status Bar Studio, premium backgrounds and future Pro improvements included with the product.
+Unless explicitly stated otherwise, the application source code is not published here.
 
-## Privacy
+Nullun is not a security product. Security documentation focuses on responsible reporting of application issues and safe public disclosure.
 
-Creations and messages are generated locally on the device.
+## Developer
 
-Nullun does not upload user creations to its own servers.
+**TSI Dev Studio**
 
-Purchases are processed securely through Google Play.
-
-## Links
-
-**Official website:**  
-https://tsidevstudio.com/apps/nullun
-
-**Google Play:**  
-https://play.google.com/store/apps/details?id=com.premium.nullun
-
-**Privacy Policy:**  
-https://tsidevstudio.com/privacy/nullun
-
-**TSI Dev Studio:**  
-https://tsidevstudio.com/
-
-**X / Twitter:**  
-https://x.com/TSIDEVStudio
-
-## Responsible use
-
-Nullun is intended for entertainment and creative use. Generated content should be used responsibly.
-
----
-
-Developed by **TSI Dev Studio**.
-
-> This repository is an informational product page for Nullun. The application source code is not published in this repository.
+https://tsidevstudio.com
